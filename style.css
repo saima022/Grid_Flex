@@ -1,0 +1,46 @@
+#header {
+text-align: center;
+}
+
+
+span{
+    border: 1px solid black;
+    padding: 40px;
+    
+}
+
+span:nth-child(2n+1){
+    background-color: #dc8a81;
+}
+
+#fifth{
+    position: static;
+    top: 60px;
+    left: 150px;
+}
+
+#sixth{
+    position: relative;
+    top: 100px;
+}
+
+#second{
+    position: fixed;
+}
+
+/* section{
+    border: 1px solid black;
+    position: relative;
+    padding: 80px;
+}
+
+div{
+    border: 1px dotted crimson;
+    position: absolute;
+    top:10px;
+} */
+
+/* div{
+    position: sticky;
+    top: 20px;
+} */
